@@ -18,3 +18,4 @@ Username: toraljoshi0501@gmail.com
 Password: Maruti2550
 •	On Heroku, please register once to check follow and unfollow feature. Moreover, email notification feature needs add-on for mailtrap.io to be installed which are paid. No error on Heroku. Once add-ons will be installed, email notification would work. On localhost, it works properly. I did a research and tried email notifications using another platform such as through Gmail for working feature on Heroku (you can see that in my commits), but due to high security of Gmail, I was not able to do it.
 
+"# faq_follower" 
